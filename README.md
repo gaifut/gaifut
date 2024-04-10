@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Artur, I am a Python developer looking for opportunities to use and improve my skills.
+### Hi there 👋 my name is Artur, I am a Python developer looking for opportunities to apply and improve my skills.
 
 - 📫 How to reach me: telegram - gaifut, email - gaifut@gmail.com
 
