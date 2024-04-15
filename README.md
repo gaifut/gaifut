@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 -->
 
 My tech stack:
-<i class="devicon-devicon-plain"></i>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+          
