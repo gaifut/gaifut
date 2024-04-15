@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 
 -->
+
+My tech stack:
+<i class="devicon-devicon-plain"></i>
